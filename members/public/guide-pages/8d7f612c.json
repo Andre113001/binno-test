@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a14d44ae-805f-4cd4-86e3-7d58aad11c8c",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">Business Name Registration:<br></h1>"
+  },
+  {
+    "id": "f62e1dc2-8602-4301-9677-44d5b38f3886",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "<p class=\"element_p\"><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\"><span class=\"x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x10flsy6 x1f6kntn x1fcty0u xzsf02u x4zkp8e x41vudc xq9mrsl\" dir=\"auto\" style=\"line-height: var(--base-line-clamp-line-height); --base-line-clamp-line-height: 20px;\">To\n start the registration process, carefully choose a unique business name\n and verify its availability with the Department of Trade and Industry \n(DTI), especially if you are establishing a sole proprietorship. If your\n business will operate as a partnership or corporation, check name \navailability with the Securities and Exchange Commission (SEC).</span></span></p>"
+  },
+  {
+    "id": "d4ddc4ea-00c3-4de5-8daf-d47d05b81417",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">BIR Registration:<br></h1>"
+  },
+  {
+    "id": "3734e8ce-8ef9-4658-aad6-425c4784ea39",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "<p class=\"element_p\"><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\"><span class=\"x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x10flsy6 x1f6kntn x1fcty0u xzsf02u x4zkp8e x41vudc xq9mrsl\" dir=\"auto\" style=\"line-height: var(--base-line-clamp-line-height); --base-line-clamp-line-height: 20px;\">Register\n your business with the Bureau of Internal Revenue (BIR) to fulfill tax \nobligations. This step includes obtaining a Certificate of Registration \n(COR) and a Tax Identification Number (TIN) for proper taxation \ncompliance.</span></span></p>"
+  },
+  {
+    "id": "64db7fc2-56e9-411b-92dc-ff8fd105dd48",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">Mayor's Permit:<br></h1>"
+  },
+  {
+    "id": "ba00b308-856f-4bf0-bfea-8237663dc084",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "<p class=\"element_p\"><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\"><span class=\"x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x10flsy6 x1f6kntn x1fcty0u xzsf02u x4zkp8e x41vudc xq9mrsl\" dir=\"auto\" style=\"line-height: var(--base-line-clamp-line-height); --base-line-clamp-line-height: 20px;\">The\n subsequent step involves applying for a Mayor's Business Permit from \nthe City Hall. This entails submitting the necessary documents and \npaying the required fees to obtain official authorization for your \nbusiness operations within the city.</span></span></p>"
+  },
+  {
+    "id": "18a59576-1d6f-4b00-a58c-7446ccd66417",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">DTI Registration:<br></h1>"
+  },
+  {
+    "id": "c48a1ff5-0ab7-47fa-a8cb-71feeb88dbbc",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "<p class=\"element_p\"><span class=\"x4k7w5x x1h91t0o x1h9r5lt x1jfb8zj xv2umb2 x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1qrby5j\"><span class=\"x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x10flsy6 x1f6kntn x1fcty0u xzsf02u x4zkp8e x41vudc xq9mrsl\" dir=\"auto\" style=\"line-height: var(--base-line-clamp-line-height); --base-line-clamp-line-height: 20px;\">Depending\n on your business structure, register your business name either with the\n DTI for sole proprietorships or the SEC for partnerships and \ncorporations. This ensures legal recognition and protection of your \nbusiness identity.</span></span></p>"
+  }
+]

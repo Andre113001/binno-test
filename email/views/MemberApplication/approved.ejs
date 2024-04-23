@@ -1,0 +1,35 @@
+
+
+<%- include('../includes/header.ejs') %>
+
+<div
+  style="margin: 0 auto; max-width: 720px; padding: 30px 0; font-family: Arial"
+>
+  <h1 style="text-align:center;">Congratulations <%= name %>!</h1>
+  <p style="text-align:center;">You have been officially approved for the BiNNO and BiCoRSE Program.<br/>You may now access your account, using your access key and temporary password</p>
+    <div
+         style="margin: 0 auto;"
+         >
+        <p style="text-align:center;">Your Access Key: </p>
+          <h3 style="text-align:center;"><span style="font-weight: bold;"><%= accesskey %></span></h3>
+        <p style="text-align:center;">Your temporary Password:</p>
+          <h3 style="text-align:center;"><span style="font-weight: bold;"><%= tmpPassword %></span></h3>
+    </div>
+  <h2 style="text-align:center;">Please don't share this information with anyone!</h2>
+    <div style="width: 100%;">
+  <table style="width: 100%; margin: 24px 0 24px 0;">
+    <tr>
+      <td></td> 
+      <td style="text-align: center;">
+        <a href="https://member.binnostartup.site">
+          <button style=" background-color:#FF7A00; border-radius: 10px; border:none; padding: 10px 30px; color: white; cursor:pointer;">
+            Sign-in here
+          </button>
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+<%- include('../includes/footer.ejs') %>

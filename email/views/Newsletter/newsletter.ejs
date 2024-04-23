@@ -1,0 +1,20 @@
+<div style="background-color: white;">
+<%- include('../includes/header.ejs') %>
+
+<div
+  style="margin: 0 auto; max-width: 720px; padding: 30px 0; font-family: Arial; text-align: center; "
+>
+
+    <h4><%= username %> just added a new <%= type %></h4>
+    <h2><%= title %></h2>
+    <img src="<%= imgSource%>" style="border: none; border-radius: 10px; width: 700px; object-fit: cover;"/>
+    <p style="text-align: left; font-size: 1rem;"> <%= details %> </p>
+    <a href="<%= link %>">
+        <%- include('../includes/button.ejs') %>
+    </a>
+  
+</div>
+
+<%- include('../includes/footer-newsletter.ejs', {emailId: emailId}) %>
+
+</div>

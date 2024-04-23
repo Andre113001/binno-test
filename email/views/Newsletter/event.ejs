@@ -1,0 +1,20 @@
+<%- include('../includes/header.ejs') %>
+
+<div
+  style="margin: 0 auto; max-width: 720px; padding: 30px 0; font-family: Arial; text-align: center; "
+>
+    <p>There is a new event hosted by <%= username %>
+    </p>
+    <h2><%= eventTitle %></h2>
+    <div>
+        <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.6435-9/61861879_3376641862361542_4320292995862626304_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=7f8c78&_nc_eui2=AeGJivn6P_3lTVp4Ed5FbNh35F7MdncqUD_kXsx2dypQP2rl_1FClQb-1lOfdbNPh4ObwamHp0U6TsGuI8aoStSy&_nc_ohc=dlTWBoBHKC0AX807rqt&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfCe0vNfw8QLSFMzNh6LXDlRaBVWxv8-ZMkqdlPsh1Qx8Q&oe=65C24A18" 
+        style="border: none; border-radius: 10px; width: 700px; object-fit: cover;"
+        />
+    </div>
+    <p><span style="font-weight: bold;">Date:</span> <%= eventDate %></p>
+    <p><span style="font-weight: bold;">Time:</span> <%= eventTiime %></p>
+    <a href="<%= eventLink %>" style="display: inline-block;">See more...</a>
+  
+</div>
+
+<%- include('../includes/footer.ejs') %>

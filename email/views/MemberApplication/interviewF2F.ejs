@@ -1,0 +1,18 @@
+<%- include('../includes/header.ejs') %>
+
+<div
+  style="margin: 0 auto; max-width: 720px; padding: 30px 0; font-family: Arial; text-align:center;"
+>
+  <h1>Hello <%= username %>,</h1>
+  <p>You have been set for an interview via Face-to-Face</p>
+  <div style="margin: 0 auto;">
+      <p>Your schedule is: </p>
+      <h4><%= timeOfInterview %></h4>
+      <h4><%= timeIn %> - <%= timeOut %></h4>
+      <p>at</p>
+      <h4>SILI DELI, OSAS bldg., Bicol University - Main Campus <br> Legazpi City, Albay</h4>
+  </div>
+  <h2>Please don't share this information with anyone!</h2>
+</div>
+
+<%- include('../includes/footer.ejs') %>

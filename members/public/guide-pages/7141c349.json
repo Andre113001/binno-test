@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f2894884-0fda-4049-8de8-ebf61849d396",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">Hi there!</h1>"
+  },
+  {
+    "id": "4116f832-3840-453e-bc99-0bd47ee5c4b1",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "<p class=\"element_p\">This is a long paragraph extending to this particular subject.</p>"
+  },
+  {
+    "id": "a5e5d696-e55b-498e-a620-dbd751f1c82e",
+    "type": "img",
+    "attributes": "src=\"https://217.196.51.115/m/api/images?filePath=guide-page-pics/53cd5b3a.jpg\" class=\"element_img\"  style=\"max-width: '400px'\"",
+    "content": ""
+  },
+  {
+    "id": "91fd23bf-7f3d-4bf5-a7d8-ae2bb5045b34",
+    "type": "iframe",
+    "attributes": "\"class=\"element_iframe\"\" src=\"https://www.youtube.com/embed/KbzGy3whpy0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen",
+    "content": ""
+  },
+  {
+    "id": "f0b9cea6-72af-484c-affe-de75b2ce43d1",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">Bong Bong Marcos</h1>"
+  },
+  {
+    "id": "ad396a56-48c2-4713-87d7-0f01255ca081",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "<p class=\"element_p\">Marcus with an O.</p>"
+  },
+  {
+    "id": "ab638488-bcff-494f-8223-9d3608ece11a",
+    "type": "iframe",
+    "attributes": "\"class=\"element_iframe\"\" src=\"https://www.youtube.com/embed/QS7w7oQHtDQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen",
+    "content": ""
+  },
+  {
+    "id": "fa661c33-21e0-4135-b8c8-ef61cdcb0875",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "<h1 class=\"element_h1\">Baller</h1>"
+  },
+  {
+    "id": "93292587-71e1-4230-bfde-91ce21a77197",
+    "type": "img",
+    "attributes": "src=\"https://217.196.51.115/m/api/images?filePath=guide-page-pics/ff9e1589.jpg\" class=\"element_img\"  style=\"max-width: '400px'\"",
+    "content": ""
+  }
+]

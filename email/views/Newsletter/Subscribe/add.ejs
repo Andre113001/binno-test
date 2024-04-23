@@ -1,0 +1,25 @@
+<div style="background-color: white;">
+    <%- include('../../includes/header.ejs') %>
+    
+    <div
+      style="margin: 0 auto; max-width: 720px; padding: 30px 0; font-family: Arial; text-align: center; "
+    >
+    
+        <h4>Hello there <%= receiver %>!</h4>
+        <p style="text-align: left; font-size: 1rem;"> 
+            To receive the BiNNO newsletter and stay informed about upcoming updates, kindly click the button provided below to subscribe. Thank you.
+        </p>
+        <a href="<%= link %>">
+            <div style="width: 100%; text-align: center;">
+                <button style="background-color: #ff7a00; color: white; padding: 15px 50px 15px 50px; border: none; border-radius: 30px;">
+                    Subscribe to BiNNO
+                </button>
+            </div>
+        </a>
+      
+    </div>
+    
+    <%- include('../../includes/footer.ejs')%>
+    
+    </div>
+    

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fc439f00-20fd-4c08-8bed-97f783d2a44f",
+    "type": "p",
+    "attributes": "class=\"element_p\"",
+    "content": "Contents"
+  },
+  {
+    "id": "de8ec16a-26cc-44c1-a49b-0ba594f41616",
+    "type": "h1",
+    "attributes": "class=\"element_h1\"",
+    "content": "Guide Header"
+  }
+]
